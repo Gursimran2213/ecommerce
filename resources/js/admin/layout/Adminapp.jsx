@@ -6,7 +6,7 @@ import { createRoot } from 'react-dom';
 const Adminapp = () => {
 
     return (
-        <div>Adminapp</div>
+        <div className='bg-red-900'>Adminapp</div>
     )
 }
 
